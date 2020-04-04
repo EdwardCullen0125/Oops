@@ -40,3 +40,13 @@ pwd   //查询当前所在位置
 - 某些 HTML 元素具有空内容（empty content）
 - 空元素在开始标签中进行关闭（以开始标签的结束而结束）
 - 大多数 HTML 元素可拥有属性
+
+# HTML属性
+- HTML标签可以拥有属性，属性提供了有关HTML元素的更多的信息。
+- 属性总是以名称/值对的形式出现，比如：name="Value".
+- 属性总是在HTML元素的开始标签中规定
+### 属性实例
+#### HTML链接由<a>标签定义。链接的地址在href属性中指定
+ ```
+ <a href="http://www.w3school.com.cn">This is a Link</a>
+ ```
